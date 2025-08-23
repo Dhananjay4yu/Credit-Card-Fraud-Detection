@@ -2,9 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange?logo=scikit-learn)
-![XGBoost](https://img.shields.io/badge/Model-XGBoost-green?logo=xgboost)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
 ---
 
 ## 📌 Project Overview  
