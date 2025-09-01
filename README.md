@@ -61,7 +61,7 @@ This project demonstrates an **end-to-end pipeline** for fraud detection using:
 
 ## 🏆 Model Performance  
 
-**Example (SMOTE + Logistic Regression):**  
+**Example (SMOTE + XGBOOST):**  
 - **Accuracy:** `0.9993`  
 - **Sensitivity (Recall):** `0.6591`  
 - **Specificity:** `0.9999`  
