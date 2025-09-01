@@ -74,7 +74,7 @@ This project demonstrates an **end-to-end pipeline** for fraud detection using:
 - **Undersampling** → Good, but lost valuable info.  
 - **SMOTE & ADASYN** → Produced strong, balanced results.  
 
-✅ **Best Choice:** **Logistic Regression + SMOTE**  
+✅ **Best Choice:** **XGBOOST + SMOTE**  
 - Train ROC-AUC: `0.99` | Test ROC-AUC: `0.97`  
 - High Recall → catches fraudulent transactions effectively  
 - Simple, interpretable, low-resource model  
