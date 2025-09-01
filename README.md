@@ -47,7 +47,8 @@ This project demonstrates an **end-to-end pipeline** for fraud detection using:
 - **KNN** → Memory-inefficient and slow for large datasets.  
 
 ### 🔧 Hyperparameter Tuning  
-- **Grid Search + K-Fold CV**  
+- **Grid Search + K-Fold CV**
+- **OPTUNA based tuning- uses Baysean search**
 - Tuned key params like **C (Logistic Regression)**, tree depth, learning rates, etc.  
 
 ### 📊 Metrics Used
